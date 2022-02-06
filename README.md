@@ -9,6 +9,7 @@ githubについての勉强
 
 ## docs
 
-- [workflow](./docs/workflow.md): pushやforkがされたときに自動で実行するワークの設定について
+- [actions](./docs/actions.md): pushやforkがされたときに自動で実行するactionsの設定について
 - [privateAccessToken](./docs/privateAccessToken.md): private access tokenについて(httpsでのpermision付きアクセス)
 - [pricing](./docs/pricing.md): githubの料金について
+- [page](https://pages.github.com/): github で static サイトを保有することができる
