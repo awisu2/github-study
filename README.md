@@ -11,3 +11,4 @@ githubについての勉强
 
 - [workflow](./docs/workflow.md): pushやforkがされたときに自動で実行するワークの設定について
 - [privateAccessToken](./docs/privateAccessToken.md): private access tokenについて(httpsでのpermision付きアクセス)
+- [pricing](./docs/pricing.md): githubの料金について
