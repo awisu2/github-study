@@ -1,6 +1,6 @@
 # github-study
 
-githubについての勉强
+github についての勉强
 
 ## public
 
@@ -9,7 +9,8 @@ githubについての勉强
 
 ## docs
 
-- [actions](./docs/actions.md): pushやforkがされたときに自動で実行するactionsの設定について
-- [privateAccessToken](./docs/privateAccessToken.md): private access tokenについて(httpsでのpermision付きアクセス)
-- [pricing](./docs/pricing.md): githubの料金について
+- [actions](./docs/actions.md): push や fork がされたときに自動で実行する actions の設定について
+- [privateAccessToken](./docs/privateAccessToken.md): private access token について(https での permision 付きアクセス)
+- [pricing](./docs/pricing.md): github の料金について
 - [page](https://pages.github.com/): github で static サイトを保有することができる
+- [free plan](./docs/free.md): Free plan's restrictions, etc.
