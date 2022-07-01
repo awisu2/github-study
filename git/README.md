@@ -15,6 +15,8 @@ git config --global user.email johndoe@example.com
 
 - 打消しするコミットを作る
 - revertを戻したいときはrevertをrevert すればよい
+- 現在のブランチにコミットされる
+  - 明示的にしたい場合は、先にブランチ切り替えてから実行する
 
 ```bash
 # 取り消したいコミットを確認
